@@ -44,3 +44,6 @@ You need an Alchemy archive Ethereum node API key to fork the mainnet state at b
    docker run -e ALCHE_API="$YOUR_ALCHEMY_ETHEREUM_MAINNET_API" -it defi-mooc-lab2 npm test
    ```
 If the execution is successful, the console will output the final optimized profit (>= 43 ETH) at the end of the transaction.
+
+## License
+This project is for academic purposes as part of COMPSCI 294 177 coursework at UC Berkeley.
